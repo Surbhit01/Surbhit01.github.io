@@ -1,5 +1,4 @@
-# Hello, I'm Surbhit! 👋
-
+<!--# Hello, I'm Surbhit! 👋-->
 ## 💫 About Me:
 With around 4.5 years of experience, I've worked across various technologies, including **augmented reality**, **virtual reality**, **DevOps**, **deep learning**, **machine learning**, and **generative AI**. I did my **B.Tech** from **Manipal Institute of Technology** in **Instrumentation and Control Engineering** (2016-2020).
 
@@ -17,7 +16,7 @@ Over the years, I've explored and worked with various technologies. Through this
 - Deep Learning
 - Computer Vision
 
-## :man_technologist: Projects:
+## 👨‍💻 Projects:
 
 These are a few projects I’ve recently worked on. I'm active working on some more interesting ones, will add them once they are complete! 🚀
 
