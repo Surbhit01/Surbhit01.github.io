@@ -1,7 +1,6 @@
 # Hello, I'm Surbhit! 👋
 
 ## 💫 About Me:
-Hello, I'm Surbhit.
 With around 4.5 years of experience, I've worked across various technologies, including **augmented reality**, **virtual reality**, **DevOps**, **deep learning**, **machine learning**, and **generative AI**. I did my **B.Tech** from **Manipal Institute of Technology** in **Instrumentation and Control Engineering** (2016-2020).
 
 Currently, I’m working as a Member of Technical Staff (2), where my primary responsibility is **building and evaluating ML models**, **developing APIs and pipelines** in Python for various services, and deploying those models and services using **Docker** and **Kubernetes**.
