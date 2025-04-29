@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/37019957?v=4" alt="Surbhit Kumar" width="150" style="border-radius: 50%;" />
+</p>
+
 <!--# Hello, I'm Surbhit! 👋-->
 ## 💫 About Me:
 With around 4.5 years of experience, I've worked across various technologies, including **augmented reality**, **virtual reality**, **DevOps**, **deep learning**, **machine learning**, and **generative AI**. I did my **B.Tech** from **Manipal Institute of Technology** in **Instrumentation and Control Engineering** (2016-2020).
@@ -23,10 +27,9 @@ These are a few projects I’ve recently worked on. I'm active working on some m
 ### [Movie Recommendation System](https://github.com/Surbhit01/Movie-RecSys)
 Built a movie recommendation system using the **MovieLens-100k dataset**, which contains **100,000 ratings** from **943 users** across **1,682 movies**. The system leverages **user-based collaborative filtering** to suggest movies by identifying users with similar preferences. Using the **K-Nearest Neighbors (KNN) algorithm**, it finds similar users, normalizes similarity scores, and generates recommendations based on weighted user ratings. The model efficiently predicts unseen movies for a given user, enhancing personalized movie discovery. The input to the system is the user id (present in the dataset) of a particular user and similar users and recommended movies are predicted for that id.
 
-### [Text Sentiment Classification](https://github.com/Surbhit01/SentimentClassification)
-Sentiment classification problem where a phrase/sentence will be taken as input and its sentiment will be predicted - either positive or negative. This has been trained on 7900+ tweets from twitter. I have performed text preprocessing like stopword removal, lemmetization, removing special characters etc. Used tfidf vectorizer and logistic regression for modelling. Performed hyper parameter tuning to tune the model performance.
+### [Youtube Video Analyzer](https://github.com/Surbhit01/Youtube-Video-Analyzer)
+YouTube Video Analyzer is an AI web app that helps you understand YouTube videos quickly and interactively. Paste the video url and the app **fetches the transcript**, **summarizes the content** in concise or detailed manner (depending on the user's preference), segments the video into **topic-wise timestamps**, and enables **natural question-answering** about the video using a chat interface. It utilizes **Gemini 1.5** as the language model.
  
-
 ### [Insurance Fraud detection](https://github.com/Surbhit01/InsuranceFraudDetection)
 The aim of this project is to build a classification model to detect if a vehicle insurance claim made by the customer is fraudulent or not. 30+ features like education level, months as customer, umbrella limit, accident severity etc were analyzed from the dataset an predictions were made. Performed hyper parameter tuning on algorithms like Support Vector Classifier, XGBoost and Random Forest Classifier.
 
