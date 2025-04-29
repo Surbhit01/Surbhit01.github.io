@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/37019957?v=4" alt="Surbhit Kumar" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/24591039?s=96&v=4" alt="Surbhit Kumar" width="200" style="border-radius: 50%;" />
 </p>
 
 <!--# Hello, I'm Surbhit! 👋-->
