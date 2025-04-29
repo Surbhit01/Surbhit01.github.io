@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/24591039?s=96&v=4" alt="Surbhit Kumar" width="200" style="border-radius: 50%;" />
-</p>
-
 <!--# Hello, I'm Surbhit! 👋-->
 ## 💫 About Me:
 With around 4.5 years of experience, I've worked across various technologies, including **augmented reality**, **virtual reality**, **DevOps**, **deep learning**, **machine learning**, and **generative AI**. I did my **B.Tech** from **Manipal Institute of Technology** in **Instrumentation and Control Engineering** (2016-2020).
